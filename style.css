@@ -116,4 +116,67 @@ header p {
 }
 .main_block_img-three {
   display: flex;
+
+  margin-top: 40px;
+  margin-left: 190px;
+}
+.main_block_img-three p {
+  margin-left: -35px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.main_block_img-three-dop {
+  margin-left: 280px;
+}
+main h2 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 53px;
+  color: #f2785c;
+}
+/*Main block sliders*/
+
+.main__block-slider-photo {
+  display: flex;
+}
+.main__block-slider-photo-item-one {
+  border-radius: 10px;
+  width: 800px;
+  height: 800px;
+}
+.main__block-slider-photo-item {
+  border-radius: 10px;
+  margin-left: 60px;
+  width: 800px;
+  height: 800px;
+}
+.main__block-slider-line {
+  width: 80px;
+  height: 20px;
+  margin-top: 25px;
+  margin-left: 660px;
+}
+.main__block-slider-btn button {
+  margin-top: 40px;
+  margin-left: 610px;
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  border-radius: 10px;
+  background-color: #0d606f;
+  color: white;
+}
+button:hover {
+  color: blue;
+}
+/*Main photo body*/
+.main__photo-body {
+  width: 1440px;
+  height: 1330px;
+  margin-top: 50px;
 }
