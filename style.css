@@ -179,4 +179,140 @@ button:hover {
   width: 1440px;
   height: 1330px;
   margin-top: 50px;
+  opacity: 0.3;
+}
+.main__list-card-item1 {
+  display: flex;
+
+  margin-top: -1250px;
+  margin-left: 120px;
+}
+.main__list-card-item1 h3 {
+  width: 760px;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #0d606f;
+  margin-top: -5px;
+  margin-left: 40px;
+}
+.main__list-card-item1 p {
+  width: 760px;
+  height: 185px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #0d606f;
+  margin-top: 70px;
+  margin-left: -750px;
+}
+.main__list-card-item2 {
+  display: flex;
+
+  margin-left: 120px;
+}
+.main__list-card-item2 h3 {
+  width: 760px;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #0d606f;
+  margin-top: -5px;
+  margin-left: 40px;
+}
+.main__list-card-item2 p {
+  width: 760px;
+  height: 185px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #0d606f;
+  margin-top: 70px;
+  margin-left: -750px;
+}
+.main__list-card-item3 {
+  display: flex;
+  margin-left: 120px;
+}
+.main__list-card-item3 h3 {
+  width: 760px;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #0d606f;
+  margin-top: -5px;
+  margin-left: 40px;
+}
+.main__list-card-item3 p {
+  width: 760px;
+  height: 185px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #0d606f;
+  margin-top: 70px;
+  margin-left: -750px;
+}
+.main__list-card-item4 {
+  display: flex;
+  margin-left: 120px;
+}
+.main__list-card-item4 h3 {
+  width: 760px;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #0d606f;
+  margin-top: -5px;
+  margin-left: 40px;
+}
+.main__list-card-item4 p {
+  width: 760px;
+  height: 185px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #0d606f;
+  margin-top: 70px;
+  margin-left: -750px;
+}
+.main__list-card-btn button {
+  margin-top: 40px;
+  margin-left: 610px;
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  border-radius: 10px;
+  background-color: #0d606f;
+  color: white;
+}
+
+/*Footer*/
+footer {
+  height: 60px;
+  background-color: #0d606f;
+}
+footer p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22px;
+  color: white;
+}
+.footer__icons-item {
+  display: flex;
+  margin-top: -40px;
+  margin-left: 1200px;
+}
+.footer__icons-item2 {
+  margin-top: 2px;
+  margin-left: 20px;
+}
+.footer__icons-item3 {
+  margin-top: 2px;
+  margin-left: 20px;
 }
