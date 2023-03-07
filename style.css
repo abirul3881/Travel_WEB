@@ -316,3 +316,46 @@ footer p {
   margin-top: 2px;
   margin-left: 20px;
 }
+/*Modal*/
+.modal {
+  width: 600px;
+  height: 600px;
+  background-color: #9bd4df;
+  border-radius: 10px;
+}
+.modal-text h3 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 39px;
+  color: #0d606f;
+}
+.modal-input-one input {
+  width: 550px;
+  height: 55px;
+  font-size: 20px;
+  font-weight: 400px;
+  line-height: 23px;
+  color: white;
+  border-radius: 10px;
+  background-color: #1877f2;
+  margin-left: 25px;
+}
+.modal-input-two input {
+  width: 550px;
+  height: 55px;
+  font-size: 20px;
+  font-weight: 400px;
+  line-height: 23px;
+  color: #0d606f;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.modal-line-one img {
+  width: 560px;
+  height: 25px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
